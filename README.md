@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithkumarkdas&label=Profile%20views&color=0e75b6&style=flat" alt="ajithkumarkdas" /> </p>
 
-- 🌱 I’m currently learning **Almost Everything**
+- 🌱 I’m currently learning **Almost Everything !**
 
 - 💬 Ask me about **Networks, Sockets, API , Binary Expolitation**
 
