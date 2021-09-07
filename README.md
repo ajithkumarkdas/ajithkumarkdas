@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Almost Everything !**
 
-- 💬 Ask me about **Networks, Sockets, API , Binary Expolitation**
+- 💬 Ask me about **Networks, Sockets, API , Binary Exploitation**
 
 - 📫 How to reach me **ajithkumarkdas@gmail.com**
 
